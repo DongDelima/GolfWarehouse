@@ -1,12 +1,16 @@
-Golf Warehouse ASP.NET Core API Clean Architecture + DDD
---------------------------------------------
-This package includes:
-- Domain: PsDoc, PsDocLin domain entities.
-- Application: PosService that persists transactions via UnitOfWork.
-- Infrastructure: EF Core DbContext, entity mappings for PS_DOC and PS_DOC_LIN (composite PK),
-  repositories, UnitOfWork implementation.
-- Api: Controller, Startup, Swagger enabled.
-- Tests: xUnit test using FakeItEasy.
-- SQL: create USER_SUGGESTED_REPLENISHMENT and trigger on PS_DOC_LIN.
--Use swagger or Postman
+# GOLF_WAREHOUSE Repository
 
+**Owner:** Florentino B. Delima  
+**Contact:** florentinobdelima@gmail.com
+
+## What this repo contains
+- Exam in zip file.
+- Golf_Warehouse_Latest.bak` — SQL Server backup of the GOLF_WAREHOUSE database.
+
+
+## How I reached this repository
+- Method / job site: <e.g. Rapid POS recruiting email / Rapid POS careers page / Applied via job portal>
+- Contact used to reach: recruiting.programmer@rapidpos.com
+
+## Notes
+use Payload.json 
